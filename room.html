@@ -178,14 +178,24 @@
                         
                         <!-- Book Now Button (in menu) -->
                         <li class="nav-item-btn">
-                            <a href="#" class="default-btn btn-bg-one border-radius-5">Book Now</a>
+                            <a href="#" target="_blank" 
+                            class="default-btn btn-bg-three"
+                            data-bs-toggle="modal"
+                            data-bs-target="#bookingModal">Book Now</a>
                         </li>
                         
                     </ul>
 
                     <!-- Additional Book Now Button -->
                     <div class="nav-btn">
-                        <a href="https://wa.me/2348144734612" target="_blank" class="default-btn btn-bg-three">Book Now</a>
+                        <a 
+                            href="#" target="_blank" 
+                            class="default-btn btn-bg-three"
+                            data-bs-toggle="modal"
+                            data-bs-target="#bookingModal"
+                            >
+                            Book Now
+                        </a>
                     </div>
                     
                 </div>
@@ -358,6 +368,71 @@
 </div>
 
 
+
+<!-- Booking Options Modal -->
+<div class="modal fade" id="bookingModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content border-0 shadow-lg rounded-4 position-relative">
+
+            <!-- Custom Close Button -->
+            <button type="button"
+                    data-bs-dismiss="modal"
+                    aria-label="Close"
+                    style="
+                        position:absolute;
+                        top:12px;
+                        right:12px;
+                        background:transparent;
+                        border:none;
+                        z-index:10;
+                    ">
+                <i class="bx bx-x"
+                   style="
+                       font-size:34px;
+                       color:#dc3545;
+                   ">
+                </i>
+            </button>
+
+            <!-- Modal Body -->
+            <div class="modal-body text-center p-4">
+
+                <!-- Hotel Logo -->
+                <div class="mb-3">
+                    <img src="assets/img/compnay_logo.JPG" 
+                         alt="Tiano Hotel & Suites Logo"
+                         style="max-width:250px;">
+                </div>
+
+                <!-- Title -->
+                <h2 class="mb-2" style="color:#dc3545;">Make a Reservation</h2>
+                <p class="text-muted mb-4">
+                    Choose your preferred booking option below
+                </p>
+
+                <!-- Booking Buttons -->
+                <div class="d-grid gap-3">
+
+                    <!-- Call Button -->
+                    <a href="tel:+2348144734612" 
+                       class="default-btn btn-bg-three rounded-3">
+                        <i class="bx bx-phone"></i> Call to Book
+                    </a>
+
+                    <!-- WhatsApp Button -->
+                    <a href="https://wa.me/2348144734612" 
+                       target="_blank"
+                       class="default-btn btn-bg-four rounded-3">
+                        <i class="bx bx-message"></i> Book via WhatsApp
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
 
 <!-- Footer -->
   <footer class="footer-area footer-bg">
