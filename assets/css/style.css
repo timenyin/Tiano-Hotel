@@ -221,8 +221,14 @@ Default Btn Style
   background-color: #C890FF;
 }
 
+
+
 .btn-bg-three {
   background-color: #E73539;
+}
+
+.btn-bg-four {
+  background-color: #212529;
 }
 
 /*================================
@@ -1244,7 +1250,7 @@ Main Banner Area
 }
 
 .banner-area-three {
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../img/home_screen.jpeg);
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../img/hotel_build.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -6338,3 +6344,10 @@ PreLoader CSS End
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+
+/* Room Span  */
+.text-sm-span-room{
+  font-size: 14px;
+  color: #dc3545;
+}

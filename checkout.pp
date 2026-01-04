@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="zxx">
 
 <!-- Mirrored from templates.hibootstrap.com/atoli/default/checkout.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Sep 2023 19:46:09 GMT -->
@@ -58,10 +58,10 @@
 <div class="language-list">
 <select class="language-list-item">
 <option>English</option>
-<option>العربيّة</option>
+<option>Ø§Ù„Ø¹Ø±Ø¨ÙŠÙ‘Ø©</option>
 <option>Deutsch</option>
-<option>Português</option>
-<option>简体中文</option>
+<option>PortuguÃªs</option>
+<option>ç®€ä½“ä¸­æ–‡</option>
 </select>
 </div>
 </div>
@@ -426,184 +426,162 @@ Place to Order
 </section>
 
 
-<footer class="footer-area footer-bg">
-<div class="container">
-<div class="footer-top pt-100 pb-70">
-<div class="row align-items-center">
-<div class="col-lg-3 col-md-6">
-<div class="footer-widget">
-<div class="footer-logo">
-<a href="index.html">
-<img src="assets/img/logos/footer-logo3.png" alt="Images">
-</a>
-</div>
-<p>
-Aenean finibus convallis nisl sit amet hendrerit. Etiam blandit velit non lorem mattis, non ultrices eros bibendum .
-</p>
-<ul class="footer-list-contact">
-<li>
-<i class="bx bx-home-alt"></i>
-<a href="#">123 Stanton, Virginia, USA</a>
-</li>
-<li>
-<i class="bx bx-phone-call"></i>
-<a href="tel:+1-(123)-456-7890">+1 (123) 456 7890</a>
-</li>
-<li>
-<i class="bx bx-envelope"></i>
-<a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#8ce4e9e0e0e3ccedf8e3e0e5a2efe3e1"><span class="__cf_email__" data-cfemail="e38b868f8f8ca382978c8f8acd808c8e">[email&#160;protected]</span></a>
-</li>
-</ul>
-</div>
-</div>
-<div class="col-lg-3 col-md-6">
-<div class="footer-widget pl-5">
-<h3>Links</h3>
-<ul class="footer-list">
-<li>
-<a href="about.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-About Us
-</a>
-</li>
-<li>
-<a href="services-1.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Services
-</a>
-</li>
-<li>
-<a href="team.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Team
-</a>
-</li>
-<li>
-<a href="gallery.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Gallery
-</a>
-</li>
-<li>
-<a href="terms-condition.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Terms
-</a>
-</li>
-<li>
-<a href="privacy-policy.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Privacy Policy
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="col-lg-3 col-md-6">
-<div class="footer-widget">
-<h3>Useful Links</h3>
-<ul class="footer-list">
-<li>
-<a href="index.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Home
-</a>
-</li>
-<li>
-<a href="blog-1.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Blog
-</a>
-</li>
-<li>
-<a href="faq.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-FAQ
-</a>
-</li>
-<li>
-<a href="testimonials.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Testimonials
-</a>
-</li>
-<li>
-<a href="gallery.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Gallery
-</a>
-</li>
-<li>
-<a href="contact.html" target="_blank">
-<i class="bx bx-caret-right"></i>
-Contact Us
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="col-lg-3 col-md-6">
-<div class="footer-widget">
-<h3>Newsletter</h3>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nullam tempor eget ante fringilla rutrum aenean sed venenatis .
-</p>
-<div class="footer-form">
-<form class="newsletter-form" data-toggle="validator" method="POST">
-<div class="row">
-<div class="col-lg-12">
-<div class="form-group">
-<input type="email" class="form-control" placeholder="Your Email*" name="EMAIL" required autocomplete="off">
-</div>
-</div>
-<div class="col-lg-12 col-md-12">
-<button type="submit" class="default-btn btn-bg-three">
-Subscribe Now
-</button>
-<div id="validator-newsletter" class="form-result"></div>
-</div>
-</div>
-</form>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="copy-right-area">
-<div class="row">
-<div class="col-lg-8 col-md-8">
-<div class="copy-right-text text-align1">
-<p>
-Copyright @<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Atoli. All Rights Reserved by
-<a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a>
-</p>
-</div>
-</div>
-<div class="col-lg-4 col-md-4">
-<div class="social-icon text-align2">
-<ul class="social-link">
-<li>
-<a href="#" target="_blank"><i class="bx bxl-facebook"></i></a>
-</li>
-<li>
-<a href="#" target="_blank"><i class="bx bxl-twitter"></i></a>
-</li>
-<li>
-<a href="#" target="_blank"><i class="bx bxl-instagram"></i></a>
-</li>
-<li>
-<a href="#" target="_blank"><i class="bx bxl-pinterest-alt"></i></a>
-</li>
-<li>
-<a href="#" target="_blank"><i class="bx bxl-youtube"></i></a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
+ <footer class="footer-area footer-bg">
+    <div class="container">
+        <div class="footer-top pt-100 pb-70">
+            <div class="row align-items-center">
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <div class="footer-logo">
+                            <a href="index.html">
+                                <img src="assets/img/logos/footer-logo2.svg" alt="Tiano Hotel Logo">
+                            </a>
+                        </div>
+                        <p>
+                            Tiano Hotel and Suites sets the standard for trusted luxury. We provide modern accommodation and excellent service to create memorable experiences for every guest in a secure environment.
+                        </p>
+                        <ul class="footer-list-contact">
+                            <li>
+                                <i class="bx bx-home-alt"></i>
+                                <a href="#">44 Marina road, Eket.</a>
+                            </li>
+                            <li>
+                                <i class="bx bx-phone-call"></i>
+                                <a href="tel:+2348144734612">08144734612</a>
+                            </li>
+                            <li>
+                                <i class="bx bx-envelope"></i>
+                                <a href="mailto:tianohotel@gmail.com">tianohotel@gmail.com</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget pl-5">
+                        <h3>Explore</h3>
+                        <ul class="footer-list">
+                            <li>
+                                <a href="index.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    Home
+                                </a>
+                            </li>
+                            <li>
+                                <a href="about.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="room.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    Rooms
+                                </a>
+                            </li>
+                            <li>
+                                <a href="services.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    Services
+                                </a>
+                            </li>
+                            <li>
+                                <a href="gallery.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    Gallery
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <h3>Contact & Info</h3>
+                        <ul class="footer-list">
+                            <li>
+                                <a href="contact.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="terms-condition.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    Terms & Conditions
+                                </a>
+                            </li>
+                            <li>
+                                <a href="privacy-policy.html">
+                                    <i class="bx bx-caret-right"></i>
+                                    Privacy Policy
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <h3>Newsletter</h3>
+                        <p>
+                            Subscribe to our newsletter to receive exclusive offers, latest news, and updates from Tiano Hotel directly to your inbox.
+                        </p>
+                        <div class="footer-form">
+                            <form class="newsletter-form" data-toggle="validator" method="POST">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <input type="email" class="form-control" placeholder="Your Email*" name="EMAIL" required autocomplete="off">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 col-md-12">
+                                        <button type="submit" class="default-btn btn-bg-three">
+                                            Subscribe Now
+                                        </button>
+                                        <div id="validator-newsletter" class="form-result"></div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="copy-right-area">
+            <div class="row">
+                <div class="col-lg-8 col-md-8">
+                    <div class="copy-right-text text-align1">
+                        <p>
+                            Copyright @<script>document.write(new Date().getFullYear())</script> Tiano Hotel & Suites. All Rights Reserved by
+                            <a href="www.tianohotelandsuites.com" target="_blank">Tiano Hotel & Suites</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="social-icon text-align2">
+                        <ul class="social-link">
+                            <li>
+                                <a href="https://www.facebook.com/TianoSuites" target="_blank"><i class="bx bxl-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/TianoSuites" target="_blank"><i class="bx bxl-instagram"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="mb-2" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                                        <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+                                    </svg>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>
 
 
@@ -634,3 +612,4 @@ Copyright @<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/clou
 
 <!-- Mirrored from templates.hibootstrap.com/atoli/default/checkout.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Sep 2023 19:46:09 GMT -->
 </html>
+
