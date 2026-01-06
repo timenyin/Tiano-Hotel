@@ -852,7 +852,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eleifend,diam quis
                             </a>
                         </div>
                         <p>
-                            Tiano Hotel and Suites sets the standard for trusted luxury. We provide modern accommodation and excellent service to create memorable experiences for every guest in a secure environment.
+                            Tiano Hotel and Suites sets the standard for trusted luxury. We provide modern  accomodations and excellent services to create memorable experiences for every guest in a secured environment.
                         </p>
                         <ul class="footer-list-contact">
                             <li>
