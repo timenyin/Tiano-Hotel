@@ -274,9 +274,7 @@
 </div>
 
 
-
-
-
+<!-- Banner Area -->
 <div class="banner-area-three">
     <div class="container">
         <div class="banner-content text-center banner-max">
@@ -365,10 +363,69 @@
                     </ul>
                     
                     <!-- Read More Button -->
-                    <a href="services.html" class="default-btn btn-bg-one border-radius-5">
+                    <a href="services.html" class="default-btn btn-bg-one">
                         Read More
                     </a>
                     
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+<!-- Banner Area Two -->
+<div class="banner-area-two">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            
+            <!-- Content Column -->
+            <div class="col-lg-6">
+                <div class="banner-another">
+                    
+                    <!-- Main Heading -->
+                    <h1>
+                        Experience Comfort, Luxury & Style at Tiano Hotel & Suites
+                    </h1>
+                    
+                    <!-- Description -->
+                    <p>
+                        Discover a refined stay designed for relaxation and elegance. 
+                        From our well-appointed rooms to premium amenities, Tiano Hotel & Suites 
+                        offers a peaceful escape with modern comfort, exceptional service, 
+                        and a welcoming atmosphere in the heart of Eket.
+                    </p>
+                    
+                    <!-- Call-to-Action Button -->
+                    <div class="banner-btn">
+                        <a href="#" 
+                           class="default-btn btn-bg-one"
+                           data-bs-toggle="modal"
+                           data-bs-target="#bookingModal">
+                            Book a Room
+                        </a>
+                    </div>
+                    
+                 
+                </div>
+            </div>
+            
+            <!-- Video Column -->
+            <div class="col-lg-6">
+                <div class="banner-img_vd">
+                    
+                    <video 
+                        autoplay 
+                        loop 
+                        muted 
+                        playsinline
+                        style="width:100%; height:auto; border-radius: 20px; object-fit: cover;">
+                        
+                        <source src="assets/video/hotel_room.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+
                 </div>
             </div>
             
@@ -708,7 +765,6 @@
 
 
 
-
 <!-- Book Area -->
  <div class="book-area-two pt-100 pb-70">
     <div class="container">
@@ -751,6 +807,9 @@
         </div>
     </div>
 </div>
+
+
+
 
 
 
@@ -1027,6 +1086,17 @@
 
 <!-- Custom JavaScript -->
 <script src="assets/js/custom.js"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const video = document.querySelector("video");
+        if (video) {
+            video.muted = true;
+            video.volume = 0;
+        }
+    });
+</script>
+
 
 </body>
 
