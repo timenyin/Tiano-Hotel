@@ -1250,17 +1250,21 @@ Main Banner Area
 }
 
 .banner-area-three {
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../img/hotel_build.png);
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../img/hotel_build_two.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .banner-max {
-  max-width: 960px;
+  max-width: 1080px;
   margin-left: auto;
   margin-right: auto;
-  padding: 160px 0 162px;
+  padding: 300px 0 90px;
+}
+
+.home_font_col {
+  color: #E73539;
 }
 
 .banner-area-two {
