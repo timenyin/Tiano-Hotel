@@ -35,6 +35,15 @@
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 <title>Atoli - Hotel & Resorts HTML Template</title>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17974817149"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17974817149');
+</script>
 <body>
 
 <div class="preloader">
