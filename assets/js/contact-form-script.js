@@ -37,6 +37,9 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
         body: formData
     })
     .then(() => {
+        // Google Ads Conversion tracking 
+        gtag('event', 'conversion', {'send_to': 'AW-17974817149/yBhJCPq06_8bEP3ih_tC'});
+        
         msgBox.className = "h4 text-success mt-4  ";
         msgBox.textContent = "Message sent successfully!";
         document.getElementById("contactForm").reset();
